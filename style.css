@@ -1,0 +1,15 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: url(targetred.cur), pointer;
+}
+
+@font-face {
+    font-family: 'PS2P';
+    src: url('./PressStart2P.ttf') format("ttf");
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lobster);
